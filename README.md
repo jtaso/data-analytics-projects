@@ -8,7 +8,7 @@ Looked for correlation between different attributes of movies with Python in Jup
 
 <br/>
 
-## [Netflix Movie Data Investigation](https://github.com/jtaso/data-analytics-projects/blob/main/Movie%20Correlation.ipynb) 
+## [Netflix Movie Data Investigation](https://github.com/jtaso/data-analytics-projects/blob/main/Netflix%20Movie%20Data%20Investigation.ipynb) 
 **Tool: Excel, Python (pandas, Matplotlib)**
 
 Exploratory data analysis on Netlix's movie duration over the past decade. Used pandas for data manipulation; Matplotlib for data visualization.  
