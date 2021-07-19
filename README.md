@@ -1,10 +1,19 @@
 # List of Projects
-## [Movie Data Correlation](https://github.com/jtaso/data-analytics-projects/blob/main/Movie%20Correlation.ipynb) 
+## [Movie Correlation](https://github.com/jtaso/data-analytics-projects/blob/main/Movie%20Correlation.ipynb) 
 **Tool: Python (NumPy, pandas, seaborn, Matplotlib)**
 
 Looked for correlation between different attributes of movies with Python in Jupyter Notebook. Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
 ###### Data Source: [Movie Industry - Three Decades of Movies](https://www.kaggle.com/danielgrijalvas/movies)
+
+<br/>
+
+## [Netflix Movie Data Investigation](https://github.com/jtaso/data-analytics-projects/blob/main/Movie%20Correlation.ipynb) 
+**Tool: Excel, Python (pandas, Matplotlib)**
+
+Exploratory data analysis on Netlix's movie duration over the past decade. Used pandas for data manipulation; Matplotlib for data visualization.  
+
+###### Data Source: [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
 
 <br/>
 
